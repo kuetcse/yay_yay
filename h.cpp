@@ -1,4 +1,7 @@
 #include <iostream>
+using namespace std;
 int main () {
-  secured
+    int n;
+  cin>>n;
+
 }
